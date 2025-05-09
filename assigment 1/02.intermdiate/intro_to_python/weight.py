@@ -11,7 +11,7 @@ gravity_constants = {
     "Mars": 0.378,
     "Jupiter": 2.36,
     "Saturn": 1.081,
-    "Uranus": 0.815,  # Note: Fixed typo from "Uranus" to match sample input
+    "Uranus": 0.815,  
     "Neptune": 1.14
 }
 
